@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a CS PhD @ UWaterloo. I love writing GPU kernels and compilers! Expected graduation date is Dec 2026.
 
 <!--
 **shiinamiyuki/shiinamiyuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
